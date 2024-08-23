@@ -1,6 +1,6 @@
 ## Soy Luis Villagra 👋
 
-Soy un **Desarrollador Full Stack** con más de 10 años de experiencia en tecnologías como **PHP, .Net, JAVA,** y **JavaScript**. Me apasiona crear soluciones tecnológicas eficientes y escalables, y disfruto liderando equipos para llevar proyectos desde la idea hasta la entrega final con éxito.
+**Desarrollador Full Stack** con más de 10 años de experiencia en tecnologías como **PHP, .Net, JAVA,** y **JavaScript**. Me apasiona crear soluciones tecnológicas eficientes y escalables, y disfruto liderando equipos para llevar proyectos desde la idea hasta la entrega final con éxito.
 
 ### 🔧 Tecnologías y Herramientas
 - **Lenguajes:** PHP, Java, C#, JavaScript, HTML, CSS, SQL
