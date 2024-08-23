@@ -1,13 +1,13 @@
 ## Soy Luis Villagra 👋
 
-**Desarrollador Full Stack** con más de 10 años de experiencia en tecnologías como **PHP, .Net, JAVA,** y **JavaScript**. Me apasiona crear soluciones tecnológicas eficientes y escalables, y disfruto liderando equipos para llevar proyectos desde la idea hasta la entrega final con éxito.
+**Desarrollador Full Stack** con más de 10 años de experiencia en tecnologías como **PHP, JAVA,** y **JavaScript**. Me apasiona crear soluciones tecnológicas eficientes y escalables, y disfruto liderando equipos para llevar proyectos desde la idea hasta la entrega final con éxito.
 
 ### 🔧 Tecnologías y Herramientas
 - **Lenguajes:** PHP, Java, C#, JavaScript, HTML, CSS, SQL
-- **Frameworks y Librerías:** Laravel, Spring Boot, ASP.NET, React, jQuery
+- **Frameworks y Librerías:** Laravel, Spring Boot, jQuery
 - **Bases de Datos:** MySQL, PostgreSQL, Oracle, SQL Server
 - **DevOps:** Docker, Git, Jenkins, CI/CD
-- **Otras Herramientas:** Visual Studio, Eclipse, IntelliJ IDEA, VS Code
+- **Otras Herramientas:** Visual Studio, Eclipse, VS Code
 
 ### 🎓 Formación
 - **Ingeniería en Informática** - Universidad Católica de Temuco
